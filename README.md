@@ -8,7 +8,6 @@
 -->
 
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -22,7 +21,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][[linkedin-shield]][linkedin-url](https://www.linkedin.com/in/tusharrana07/)]
+[![LinkedIn][[linkedin-shield]](https://www.linkedin.com/in/tusharrana07/)]
 
 
 
