@@ -24,6 +24,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+[![LinkedIn][linkedin-shield] LinkedIn][linkedin-url]
+[linkedin-shield]: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg
+[linkedin-url]: https://www.linkedin.com/in/tusharrana07/
+
+
 
 
 <!-- PROJECT LOGO -->
