@@ -21,8 +21,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedIn-shield]][linkedIn-url]
-
 [linkedIn-shield]: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg
 [linkedIn-url]: https://www.linkedin.com/in/tusharrana07/
 
